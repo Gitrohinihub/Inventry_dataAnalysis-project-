@@ -62,8 +62,28 @@ This project solves these issues with **real-time KPIs** and an **optimised supp
 5. **Total Loss** → `7.60M`
 6. **Average Daily Loss** → `2.97K`
 
-- Added **slicers & filters** for product/date analysis  
-- Applied **DAX measures** for profit/loss calculations  
+- Added **slicers & filters** for product/date analysis
+- Applied **DAX measures** for profit/loss calculations
+
+- 🔍 Data Filtering Approach :
+  
+▫️ Across both pages, you’ve applied consistent filters to make sure the KPIs stay aligned.
+▫️ Filters Used (as seen on the right panel):
+▫️ Order_Date_DD_MM_YYYY → Allows selecting a specific date range or viewing all available periods.
+▫️ Product_Name → Enables product-level filtering (e.g., 4K Smart TV, Action Camera, Air Purifier).
+▫️ Filter Type: Basic Filtering with search, so you can quickly find specific products.
+▫️ Single Selection Option → Disabled (so multiple products can be selected at once).
+
+- Why This Matters:
+
+▫️ Having the same filter settings on both pages ensures that when you switch views, the metrics stay consistent for the same product/date selection.
+▫️ It also means decision-makers can drill down into a product’s KPIs and see both operational and financial impacts instantly.
+
+![Image Link](https://github.com/Gitrohinihub/Inventry_dataAnalysis-project-/blob/bebcbff4b4fad4295df579de2bf6a5702af8e94d/Report%20Page%201st.png)
+
+![Image Link](https://github.com/Gitrohinihub/Inventry_dataAnalysis-project-/blob/bebcbff4b4fad4295df579de2bf6a5702af8e94d/Report%20Page%202nd.png)
+
+Power BI App : [project Link](https://app.powerbi.com/links/9RRFc0MC6Q?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare&bookmarkGuid=04938a3d-e3e8-44bf-9e22-b95cc6198986)
 
 ---
 
