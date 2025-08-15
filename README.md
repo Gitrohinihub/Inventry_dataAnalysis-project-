@@ -65,7 +65,7 @@ This project solves these issues with **real-time KPIs** and an **optimised supp
 - Added **slicers & filters** for product/date analysis
 - Applied **DAX measures** for profit/loss calculations
 
-- 🔍 Data Filtering Approach :
+🔍 Data Filtering Approach :
   
 ▫️ Across both pages, you’ve applied consistent filters to make sure the KPIs stay aligned.
 ▫️ Filters Used (as seen on the right panel):
@@ -74,7 +74,7 @@ This project solves these issues with **real-time KPIs** and an **optimised supp
 ▫️ Filter Type: Basic Filtering with search, so you can quickly find specific products.
 ▫️ Single Selection Option → Disabled (so multiple products can be selected at once).
 
-- Why This Matters:
+🤔 Why This Matters:
 
 ▫️ Having the same filter settings on both pages ensures that when you switch views, the metrics stay consistent for the same product/date selection.
 ▫️ It also means decision-makers can drill down into a product’s KPIs and see both operational and financial impacts instantly.
