@@ -67,17 +67,23 @@ This project solves these issues with **real-time KPIs** and an **optimised supp
 
 🔍 Data Filtering Approach :
   
-▫️ Across both pages, you’ve applied consistent filters to make sure the KPIs stay aligned.
-▫️ Filters Used (as seen on the right panel):
-▫️ Order_Date_DD_MM_YYYY → Allows selecting a specific date range or viewing all available periods.
-▫️ Product_Name → Enables product-level filtering (e.g., 4K Smart TV, Action Camera, Air Purifier).
-▫️ Filter Type: Basic Filtering with search, so you can quickly find specific products.
-▫️ Single Selection Option → Disabled (so multiple products can be selected at once).
+▫️Across both pages, you’ve applied consistent filters to make sure the KPIs stay aligned.
+
+▫️Filters Used (as seen on the right panel).
+
+▫️Order_Date_DD_MM_YYYY → Allows selecting a specific date range or viewing all available periods.
+
+▫️Product_Name → Enables product-level filtering (e.g., 4K Smart TV, Action Camera, Air Purifier).
+
+▫️Filter Type: Basic Filtering with search, so you can quickly find specific products.
+
+▫️Single Selection Option → Disabled (so multiple products can be selected at once).
+
 
 🤔 Why This Matters:
 
-▫️ Having the same filter settings on both pages ensures that when you switch views, the metrics stay consistent for the same product/date selection.
-▫️ It also means decision-makers can drill down into a product’s KPIs and see both operational and financial impacts instantly.
+▫️Having the same filter settings on both pages ensures that when you switch views, the metrics stay consistent for the same product/date selection.
+▫️It also means decision-makers can drill down into a product’s KPIs and see both operational and financial impacts instantly.
 
 ![Image Link](https://github.com/Gitrohinihub/Inventry_dataAnalysis-project-/blob/bebcbff4b4fad4295df579de2bf6a5702af8e94d/Report%20Page%201st.png)
 
